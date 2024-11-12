@@ -1,16 +1,15 @@
-## Hi there 👋
+About Me 🎓
 
-<!--
-**shelsea-machava/shelsea-machava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 Medical Student at Eduardo Mondlane University
+📚 Currently in 4 year of Medical School
+🔄 Bridging the gap between Healthcare and Technology
+🤖 Interested in Medical Informatics and Healthcare AI
+🌱 Learning programming to innovate in healthcare
 
-Here are some ideas to get you started:
+Current Focus 🔍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Medical Data Analysis
+🧬 Bioinformatics Projects
+📱 Healthcare Apps Development
+📈 Research Data Visualization
+🎯 Evidence-Based Medicine Tools
